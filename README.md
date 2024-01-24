@@ -1,4 +1,4 @@
-# This is the template of an Android App Made with Java and XML, Which demonstarte how to fullfill the below requirements and Perform REST Api integration. Use this template and your own Api.
+## This is the template of an Android App Made with Java and XML, Which demonstarte how to fullfill the below requirements and Perform REST Api integration. Use this template and your own Api.
 
 
 
